@@ -494,7 +494,7 @@ class Html{
                             </div>
                             <div class="col-md-9">
                                 <div class="form-group">
-                                    <label for="">Fields <small>format are like: field_name:datatype(length),...filed_name:datatype(length). id will automatically added.</small></label>
+                                    <label for="">Fields <small>format are like: field_name:datatype(length);...filed_name:datatype(length). id will automatically added.</small></label>
                                     <input type="text" name="resource_fields" class="form-control">
                                 </div>
                             </div>
